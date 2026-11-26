@@ -1,0 +1,4 @@
+Model,Precision@10,Recall@10,RMSE,MAE
+User-User Collaborative Filtering,0.0108,0.014,,
+Item-Item Collaborative Filtering,0.0002,0.0,,
+Matrix Factorization,0.0615,0.0444,0.8664,0.6653

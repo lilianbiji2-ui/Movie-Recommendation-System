@@ -1,0 +1,31 @@
+movieId,title,predicted_rating,neighbour_count,Model,contributing_movies
+3814,Love and Death (1975),5.000000000000001,2.0,User-User CF,
+85,Angels and Insects (1995),5.0,1.0,User-User CF,
+187,Party Girl (1995),5.0,1.0,User-User CF,
+290,Once Were Warriors (1994),5.0,1.0,User-User CF,
+456,Fresh (1994),5.0,1.0,User-User CF,
+599,"Wild Bunch, The (1969)",5.0,1.0,User-User CF,
+633,Denise Calls Up (1995),5.0,1.0,User-User CF,
+1147,When We Were Kings (1996),5.0,1.0,User-User CF,
+1150,"Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",5.0,1.0,User-User CF,
+1178,Paths of Glory (1957),5.0,4.0,User-User CF,
+130842,Power/Rangers (2015),5.0,,Item-Item CF,7.0
+132888,Comedy Central Roast of James Franco (2013),4.999999999999999,,Item-Item CF,7.0
+159441,The Do-Over (2016),4.999999999999999,,Item-Item CF,7.0
+113604,If I Stay (2014),4.999999999999999,,Item-Item CF,7.0
+112897,The Expendables 3 (2014),4.999999999999999,,Item-Item CF,7.0
+145935,"Peanuts Movie, The (2015)",4.999999999999999,,Item-Item CF,7.0
+96964,"Tall Man, The (2012)",4.999999999999999,,Item-Item CF,7.0
+114494,Who Am I (Kein System Ist Sicher) (2014),4.999999999999999,,Item-Item CF,7.0
+132800,Welcome to Me (2014),4.987439989943839,,Item-Item CF,13.0
+96608,Runaway Brain (1995) ,4.981773710130429,,Item-Item CF,6.0
+318,"Shawshank Redemption, The (1994)",5.0,,Matrix Factorization,
+898,"Philadelphia Story, The (1940)",5.0,,Matrix Factorization,
+899,Singin' in the Rain (1952),5.0,,Matrix Factorization,
+904,Rear Window (1954),5.0,,Matrix Factorization,
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),5.0,,Matrix Factorization,
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5.0,,Matrix Factorization,
+1276,Cool Hand Luke (1967),5.0,,Matrix Factorization,
+2329,American History X (1998),5.0,,Matrix Factorization,
+858,"Godfather, The (1972)",5.0,,Matrix Factorization,
+3435,Double Indemnity (1944),5.0,,Matrix Factorization,
