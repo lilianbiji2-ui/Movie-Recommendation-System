@@ -162,3 +162,7 @@ This project provided practical experience in developing collaborative filtering
 By implementing and comparing User-User Collaborative Filtering, Item-Item Collaborative Filtering, and Matrix Factorization, the project explored different approaches to personalised movie recommendations.
 
 It also provided hands-on experience in data preparation, similarity computation, model evaluation, and data visualisation.
+
+## Power BI Dashboard
+
+![Power BI Dashboard](Documentation/PowerBI_Dashboard.png)
